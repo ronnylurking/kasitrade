@@ -1,0 +1,20 @@
+:root {
+    --kasi-blue: #070229;
+}
+.btn-kasi {
+    background-color: var(--kasi-blue);
+    color: white;
+    border-radius: 25px;
+}
+.listing-card {
+    transition: transform 0.2s;
+}
+.listing-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+@media (max-width: 768px) {
+    .admin-sidebar {
+        display: none; /* Toggle with button */
+    }
+}
