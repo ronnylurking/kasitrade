@@ -19,7 +19,7 @@ KasiTrade is a mobile‑first, customer‑to‑customer marketplace designed for
 | Seller     | seller@test.com     | 1234     |
 
 ## Local Installation
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/kasitrade.git`
+1. Clone the repository: `git clone https://github.com/ronnylurking/kasitrade.git`
 2. Import `kasitrade.sql` into MySQL (export your database first).
 3. Update `config/database.php` with your credentials.
 4. Place the project in XAMPP `htdocs`.
