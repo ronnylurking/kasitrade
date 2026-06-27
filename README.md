@@ -34,13 +34,13 @@ KasiTrade is a mobile‑first, customer‑to‑customer marketplace designed for
 - Fully responsive design
 
 ## Project Structure
-kasitrade/
-├── assets/ # CSS, JS, images
-├── config/ # Database config
-├── includes/ # Header, footer
-├── admin/ # Admin dashboard, users, listings
-├── uploads/ # Product images
-└── ...
+kasitrade
+- assets (CSS, JS, images)
+- config (Database config)
+- includes (Header, footer)
+- admin (Admin dashboard, users, listings)
+- uploads (Product images)
+- ...
 
 ## Contact
 Created for ITECA deliverable – all rights reserved.
