@@ -28,10 +28,9 @@ KasiTrade is a mobile‑first, customer‑to‑customer marketplace designed for
 ## Features
 - Full C2C marketplace (list, browse, cart, checkout)
 - RBAC with Admin, Moderator, Dispatcher, Seller, Buyer
-- Admin user management (CRUD, soft‑delete)
+- Admin user management (Soft‑delete)
 - Listing approval workflow
 - Product reviews & ratings
-- Simulated Ozow payments
 - Fully responsive design
 
 ## Project Structure
@@ -44,4 +43,4 @@ kasitrade/
 └── ...
 
 ## Contact
-Created for academic deliverable – all rights reserved.
+Created for ITECA deliverable – all rights reserved.
